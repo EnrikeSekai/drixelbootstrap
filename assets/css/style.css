@@ -1,0 +1,31 @@
+.colorform{
+    background: linear-gradient(#2500e6,black);
+    border-radius:5px;
+    color: rgb(255, 255, 255);
+}
+
+.btncenter{
+   text-align: center;
+}
+.footer{
+    text-align: center ;
+}
+.instagram{
+    width: 16px;
+    height: 16px;
+}
+.enlace{
+    font-size: 16px;
+    
+}
+a{
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+}
+.colorbtn {
+    background-color: rgb(18, 18, 44);
+}
+.section {
+   justify-content: end;
+}
+.bgd {background-color: aqua;}
